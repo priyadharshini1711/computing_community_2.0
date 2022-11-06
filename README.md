@@ -36,4 +36,4 @@ Computing community requires PHP5 and a wamp server to run.
 - project is running on http://localhost/cc/
 
 ## Contact
-Created by [@Varsh18](https://github.com/Varsh18?tab=repositories) and [@priyadharshini1711](https://github.com/priyadharshini1711) 
+Created by [Varsh18](https://github.com/Varsh18?tab=repositories) and [@priyadharshini1711](https://github.com/priyadharshini1711) 
