@@ -1,5 +1,5 @@
 ## Computing Community
- 
+
 > All in one computer science career resource. Computing community is a web based (static) computer resource that helps students to improve their career. This is the improved version of the previous application [_computing-community-1.0_](https://www.example.com).
 > Live demo [_computing-community-2.0_](https://computing-community-2-0.netlify.app/index.html).
 
@@ -25,7 +25,6 @@ Computing community uses a the following tech stacks to work properly:
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/200184886-7217625b-ec72-4f27-8fce-546464835143.png">
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/200184918-f462be25-85a6-4ee4-8958-dbbe52ee11f2.png">
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/200184942-4c6ff342-282e-4eb2-9bc1-dcba7db2285f.png">
-
 
 ## Setup
 
